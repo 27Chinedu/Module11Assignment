@@ -1,6 +1,7 @@
 # FastAPI Calculator Application with Database Integration
 
 A production-ready FastAPI application featuring a calculator API with comprehensive database integration using SQLAlchemy ORM, PostgreSQL, and a complete CI/CD pipeline.
+DOCKERHUB LINK: https://hub.docker.com/repository/docker/cerechukwu27/module11/general
 
 ## Table of Contents
 
